@@ -1,0 +1,112 @@
+Sintaksis(Frasa,Klausa,danKalimat)
+
+1. Hakikat Sintaksis
+Sintaksis adalah cabang ilmu linguistik yang mempelajari tata bahasa mengenai hubungan antarkata dalam membentuk satuan bahasa yang lebih besar, yaitu frasa, klausa, dan kalimat.
+
+Jika morfologi berfokus pada struktur internal kata, maka sintaksis berfokus pada bagaimana kata-kata tersebut dirangkai dan disusun menjadi satuan bermakna yang utuh.
+
+2. Frasa
+Frasa adalah satuan gramatikal yang terdiri atas dua kata atau lebih yang tidak bersifat predikatif (tidak memiliki hubungan subjek dan predikat) serta hanya menduduki satu fungsi sintaksis dalam kalimat.
+
+A. Ciri-Ciri Frasa
+Terdiri atas sekurang-kurangnya dua kata.
+
+Tidak memiliki unsur predikat.
+
+Selalu menduduki satu fungsi kalimat (misalnya hanya sebagai Subjek, hanya sebagai Predikat, atau hanya sebagai Keterangan).
+
+B. Jenis-Jenis Frasa Berdasarkan Distribusi Unsur
+Frasa Eksosentris: Frasa yang unsur-unsurnya tidak dapat saling menggantikan dan harus hadir bersama-sama. Biasanya diawali oleh kata depan atau kata sambung. Contoh: di pasar, ke kampus, dari desa.
+
+Frasa Endosentris: Frasa yang memiliki unsur pusat (inti) yang dapat menggantikan posisi frasa secara keseluruhan.
+
+Endosentris Atributif: Memiliki unsur pusat dan unsur penjelas/atribut. Contoh: buku baru (pusat: buku, atribut: baru).
+
+Endosentris Koordinatif: Unsur-unsurnya setara dan dihubungkan dengan kata hubung. Contoh: suami istri, makan dan minum.
+
+Endosentris Apositif: Unsur penjelasnya berupa aposisi yang dapat menggantikan unsur pusat. Contoh: Pak Joko, Lurah kami, (unsur Lurah kami adalah aposisi).
+
+C. Jenis-Jenis Frasa Berdasarkan Kelas Kata Inti
+Frasa Nomina: Inti frasa berupa kata benda. Contoh: padi unggul, rumah besar.
+
+Frasa Verba: Inti frasa berupa kata kerja. Contoh: sedang menanam, akan berangkat.
+
+Frasa Adjektiva: Inti frasa berupa kata sifat. Contoh: sangat subur, indah sekali.
+
+Frasa Adverbia: Inti frasa berupa kata keterangan. Contoh: kurang lebih, tidak biasanya.
+
+Frasa Numeralia: Inti frasa berupa kata bilangan. Contoh: dua ton, tiga lembar.
+
+Frasa Preposisional: Frasa yang diawali oleh kata depan. Contoh: di sawah, dengan cangkul.
+
+3. Klausa
+Klausa adalah satuan gramatikal yang terdiri atas dua kata atau lebih yang mengandung unsur Subjek (S) dan Predikat (P), serta berpotensi menjadi kalimat tunggal jika diberi intonasi akhir.
+
+A. Perbedaan Klausa dan Kalimat
+Klausa: Belum memiliki intonasi akhir (tanda titik, tanda tanya, atau tanda seru) dan belum menyampaikan gagasan yang sempurna secara utuh.
+
+Kalimat: Klausa yang telah diberi intonasi akhir atau tanda baca akhir sehingga bermakna lengkap.
+
+B. Jenis-Jenis Klausa
+Berdasarkan Strukturnya:
+
+Klausa Bebas: Klausa yang berpotensi menjadi kalimat mandiri karena memiliki unsur S dan P yang lengkap (misal: petani menanam padi).
+
+Klausa Terikat: Klausa yang tidak dapat berdiri sendiri sebagai kalimat sempurna dan biasanya diawali oleh konjungsi subordinatif (misal: ketika hujan turun).
+
+Berdasarkan Ada/Tidaknya Kata Negasi:
+
+Klausa Positif: Klausa yang tidak mengandung kata negasi/pengingkaran (misal: tanah itu subur).
+
+Klausa Negatif: Klausa yang mengandung kata negasi seperti tidak atau bukan (misal: benih itu tidak tumbuh).
+
+4. Kalimat
+Kalimat adalah satuan bahasa terkecil yang mengungkapkan pikiran secara utuh, baik secara lisan (diakhiri intonasi final) maupun tulisan (diawali huruf kapital dan diakhiri tanda titik, tanda tanya, atau tanda seru).
+
+A. Unsur-Unsur/Fungsi Sintaksis dalam Kalimat
+Subjek (S): Pelaku atau inti yang dibicarakan dalam kalimat.
+
+Predikat (P): Unsur yang menerangkan atau menyatakan tindakan/keadaan subjek.
+
+Objek (O): Unsur yang dikenai perbuatan oleh predikat (wajib ada pada kalimat transitif).
+
+Pelengkap (Pel): Unsur yang melengkapi predikat tetapi tidak dapat diubah menjadi subjek dalam kalimat pasif.
+
+Keterangan (Ket): Unsur pembantu yang memberikan informasi tambahan mengenai tempat, waktu, cara, tujuan, atau alasan.
+
+B. Jenis-Jenis Kalimat Berdasarkan Jumlah Klausa
+Kalimat Tunggal: Kalimat yang hanya terdiri atas satu klausa (satu pola S-P).
+
+Contoh: Petani itu menanam benih padi di sawah. (S: Petani itu, P: menanam, O: benih padi, Ket: di sawah).
+
+Kalimat Majemuk: Kalimat yang terdiri atas dua klausa atau lebih.
+
+Kalimat Majemuk Setara: Klausa-klausanya memiliki kedudukan yang sejajar dan dihubungkan oleh konjungsi koordinatif (dan, atau, tetapi). Contoh: Petani menabur benih dan mereka merawatnya setiap hari.
+
+Kalimat Majemuk Bertingkat: Klausa-klausanya tidak setara (terdiri atas induk kalimat dan anak kalimat). Contoh: Petani mulai memanen padi ketika musim kemarau tiba.
+
+Kalimat Majemuk Campuran: Gabungan antara majemuk setara dan bertingkat (terdiri atas minimal tiga klausa).
+
+C. Jenis-Jenis Kalimat Berdasarkan Fungsi Amanat/Tujuan
+Kalimat Berita (Deklaratif): Berfungsi menyampaikan informasi atau pernyataan.
+
+Kalimat Tanya (Interogatif): Berfungsi meminta informasi atau jawaban dari lawan tutur.
+
+Kalimat Perintah (Imperatif): Berfungsi memberikan perintah, permintaan, ajakan, atau larangan.
+
+Kalimat Seru (Eksklamatif): Berfungsi mengungkapkan perasaan atau emosi yang kuat.
+
+5. Kalimat Efektif
+Dalam tata tulis bahasa Indonesia baku, penyusunan kalimat hendaknya memenuhi kaidah kalimat efektif, yaitu kalimat yang dapat menyampaikan pesan secara tepat, jelas, dan mudah dipahami oleh pembaca atau pendengar.
+
+Syarat-syarat kalimat efektif meliputi:
+
+Kesepadanan Struktur: Memiliki subjek dan predikat yang jelas, serta tidak ada subjek ganda.
+
+Keparalelan/Kesejajaran Form: Memiliki kesamaan bentuk gramatikal dalam rincian (misal: jika bentuk pertama berupa verba berimbuhan me-, rincian berikutnya juga harus verba me-).
+
+Kehematan Kata: Menghindari penggunaan kata-kata yang bersinonim secara berlebihan atau pengulangan kata yang tidak perlu.
+
+Kecermatan dan Kejelasan: Memiliki susunan kata yang tepat sehingga tidak menimbulkan ketaksaan (makna ganda).
+
+Kelogisan Makna: Ide atau ide dalam kalimat dapat diterima oleh akal sehat.

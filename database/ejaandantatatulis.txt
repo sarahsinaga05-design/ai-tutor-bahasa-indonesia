@@ -1,0 +1,87 @@
+Ejaandantatatulis(Ejaan,tandabaca,penulisan)
+
+1. Konsep Dasar Ejaan
+Ejaan adalah keseluruhan kaidah yang mengatur bagaimana menggambarkan bunyi ujaran (kata, kalimat) dalam bentuk tulisan serta penggunaan tanda baca. Dalam bahasa Indonesia, pedoman yang berlaku saat ini adalah Ejaan yang Disempurnakan (EYD) Edisi V.
+
+Ejaan mencakup tiga aspek utama:
+
+Aspek Fonologis: Pengaturan penulisan bunyi bahasa menjadi huruf dan suku kata.
+
+Aspek Morfologis: Pengaturan penulisan bentuk kata (kata dasar, kata berimbuhan, kata ulang, kata gabung).
+
+Aspek Sintaksis: Pengaturan penulisan tanda baca untuk menandai struktur kalimat dan intonasi.
+
+2. Pemakaian Huruf dan Penulisan Kata
+A. Huruf Kapital (Huruf Besar)
+Awal Kalimat: Digunakan pada huruf pertama awal kalimat (contoh: Dia sedang membaca.).
+
+Nama Orang dan Gelar: Digunakan untuk huruf pertama nama orang, gelar kehormatan, keturunan, atau keagamaan yang diikuti nama orang (contoh: Sultan Hasanuddin, Dr. Mohammad Hatta).
+
+Geografi: Digunakan untuk nama geografis yang spesifik (contoh: Sungai Musi, Kota Semarang, Danau Toba). Namun, jika nama jenis/generik, ditulis huruf kecil (contoh: gula jawa, jeruk bali).
+
+Nama Hari, Bulan, Tahun, dan Hari Besar: (contoh: hari Senin, bulan Agustus, tahun Hijriah, hari Lebaran).
+
+Nama Lembaga, Dokumen Resmi, dan Jabatan: (contoh: Kementerian Pendidikan, Undang-Undang Dasar).
+
+B. Huruf Miring (Italik)
+Judul Karya: Digunakan untuk menuliskan judul buku, nama majalah, atau surat kabar yang dikutip dalam tulisan (contoh: majalah Tempo, buku Laskar Pelangi).
+
+Bahasa Asing atau Daerah: Digunakan untuk menegaskan kata atau ungkapan dalam bahasa asing atau bahasa daerah yang belum diserap ke dalam bahasa Indonesia (contoh: istilah online diubah menjadi daring, menanam padi secara tabela).
+
+Penegasan: Digunakan untuk menegaskan atau mengkhususkan huruf, bagian kata, atau kelompok kata.
+
+C. Penulisan Kata
+Kata Berimbuhan: Awalan, sisipan, akhiran, serta gabungan awalan dan akhiran ditulis serangkai dengan kata dasarnya (contoh: berjalan, mempertanyakan).
+
+Bentuk Terikat: Bentuk yang tidak dapat berdiri sendiri ditulis serangkai dengan kata yang mengikutinya (contoh: pascasarjana, multimedia, subbab, antarkota).
+
+Kata Depan (di, ke, dari): Ditulis terpisah dari kata yang mengikutinya jika menunjukkan tempat atau arah (contoh: di rumah, ke kampus, dari Surabaya). Berbeda dengan awalan di- yang ditulis serangkai (contoh: ditulis, dimakan).
+
+Gabungan Kata (Kata Majemuk):
+
+Umumnya ditulis terpisah (contoh: duta besar, orang tua, rumah sakit).
+
+Jika mendapat awalan dan akhiran sekaligus, ditulis serangkai (contoh: mempertanggungjawabkan, dilipatgandakan).
+
+3. Pemakaian Tanda Baca
+A. Tanda Titik (.)
+Digunakan pada akhir kalimat pernyataan/berita.
+
+Digunakan di belakang angka atau huruf dalam suatu bagan, ikhtisar, atau daftar.
+
+Digunakan untuk memisahkan angka jam, menit, dan detik yang menunjukkan waktu atau jangka waktu (contoh: pukul 07.30.00).
+
+Digunakan untuk memisahkan bilangan ribuan atau kelipatannya yang menunjukkan jumlah (contoh: 10.000 rupiah).
+
+B. Tanda Koma (,)
+Pemerincian: Digunakan di antara unsur-unsur dalam suatu pemerincian atau pembilangan (contoh: Saya membeli kertas, pena, dan tinta.).
+
+Anak Kalimat Mendahului Induk Kalimat: Digunakan untuk memisahkan anak kalimat yang mendahului induk kalimatnya (contoh: Kalau hari hujan, saya tidak akan datang.).
+
+Kata Hubung Antarkalimat: Digunakan di belakang kata atau ungkapan penghubung antarkalimat yang terdapat pada awal kalimat (contoh: Oleh karena itu,, Jadi,, Namun,).
+
+Aposisi/Keterangan Tambahan: Digunakan untuk memapit keterangan tambahan atau keterangan aposisi.
+
+C. Tanda Titik Dua (:)
+Digunakan pada akhir suatu pernyataan lengkap yang diikuti pemerincian atau penjelasan.
+
+Digunakan sesudah kata atau ungkapan yang memerlukan pemerian/penjelasan (misalnya pada formulir atau naskah drama).
+
+Digunakan di antara jilid/nomor dan halaman, surah dan ayat dalam kitab suci, atau judul dan anak judul suatu karangan.
+
+D. Tanda Titik Koma (;)
+Digunakan sebagai pengganti kata penghubung untuk memisahkan kalimat setara yang satu dari kalimat setara yang lain di dalam kalimat majemuk.
+
+Digunakan pada akhir perincian yang berupa klausa atau frasa bertingkat.
+
+E. Tanda Hubung (-) dan Tanda Pisah (—)
+Tanda Hubung (-): Digunakan untuk menyambung suku kata yang terpotong garis batas, menyambung kata ulang (contoh: anak-anak), dan merangkai unsur bahasa Indonesia dengan bahasa asing (contoh: di-download).
+
+Tanda Pisah (—): Digunakan untuk membatasi penyisipan kata atau kalimat yang memberikan penjelasan di luar bangun kalimat, atau berarti 'sampai dengan' atau 'sampai ke' di antara dua bilangan/tanggal.
+
+4. Prinsip Tata Tulis Efektif dan Baku
+Kehematan: Mengeliminasi kata-kata yang mubazir atau redundan (contoh baku: disebabkan oleh, bukan disebabkan karena).
+
+Kesejajaran (Pararelisme): Menggunakan bentuk gramatikal yang sama dalam perincian (contoh: kegiatan meliputi pemetaan, penanaman, dan pemanenan, bukan pemetaan, menanam, dan memanen).
+
+Kecermatan dan Kejelasan: Memastikan subjek dan predikat jelas serta tidak menimbulkan ketaksaan (makna ganda).

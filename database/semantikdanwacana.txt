@@ -1,0 +1,111 @@
+SemantikdanWacana
+
+BAGIAN I: SEMANTIK (KAJIAN MAKNA BAHASA)
+1. Hakikat Semantik
+Semantik adalah cabang ilmu linguistik yang mempelajari arti atau makna yang terkandung dalam satuan bahasa, baik pada tataran kata (leksikal), pembentukan kata (gramatikal), maupun susunan kalimat.
+
+2. Jenis-Jenis Makna
+Makna Leksikal: Makna asli atau makna dasar suatu kata sesuai dengan kamus (Kamus Besar Bahasa Indonesia) tanpa dipengaruhi oleh konteks kalimat. Contoh: padi bermakna tumbuhan penghasil beras.
+
+Makna Gramatikal: Makna baru yang muncul akibat proses morfologi (pengimbuhan, pengulangan, penggabungan kata) atau susunan sintaksis. Contoh: berjalan bermakna melakukan kegiatan jalan.
+
+Makna Denotatif: Makna lugas, konseptual, objektif, dan sesuai dengan keadaan sebenarnya. Contoh: tangan kanan bermakna bagian tubuh sebelah kanan.
+
+Makna Konotatif: Makna kiasan, nilai rasa, atau makna tambahan yang dipengaruhi oleh budaya, emosi, atau penilaian masyarakat. Contoh: tangan kanan bermakna orang kepercayaan.
+
+Makna Kognitif/Konseptual: Makna yang merujuk pada konsep atau definisi logis dari suatu objek atau ide.
+
+Makna Asosiatif: Makna kata yang dihubungkan dengan keadaan di luar bahasa (misal: kata amplop bermakna uang suap dalam konteks birokrasi).
+
+3. Relasi Makna
+Relasi makna adalah hubungan semantis antara satu kata/satuan bahasa dengan kata/satuan bahasa lainnya:
+
+Sinonim (Kemiripan Makna): Hubungan dua kata atau lebih yang memiliki makna sama atau mirip. Contoh: bunga dan kembang, tanaman dan tumbuhan.
+
+Antonim (Oposisi Makna): Hubungan dua kata yang maknanya berlawanan.
+
+Oposisi Mutlak: mati vs hidup.
+
+Oposisi Kutub (Bisa Diukur): besar vs kecil, panas vs dingin.
+
+Oposisi Hirarkis: milimeter vs sentimeter vs meter.
+
+Oposisi Relasional/Timbal Balik: menjual vs membeli, orang tua vs anak.
+
+Hiponim dan Hipernim (Hubungan Cakupan):
+
+Hipernim (Kata Umum): Kata yang mencakup makna kata lain (contoh: tanaman).
+
+Hiponim (Kata Khusus): Kata yang maknanya terlingkup dalam kata umum (contoh: padi, jagung, kedelai).
+
+Polisemi: Satu kata yang memiliki beberapa makna yang saling berkaitan secara etimologis atau konseptual. Contoh: kata kepala (kepala manusia, kepala sekolah, kepala surat).
+
+Homonim: Dua kata atau lebih yang memiliki bentuk penulisan atau pelafalan yang sama tetapi maknanya berbeda total dan tidak saling berkaitan.
+
+Homofon: Bunyi sama, ejaan beda (contoh: bank vs bang).
+
+Homograf: Ejaan sama, bunyi beda (contoh: tahu [makanan] vs tahu [paham/mengerti]).
+
+4. Perubahan Makna
+Makna kata dapat bergeser seiring perkembangan zaman dan penggunaannya di masyarakat:
+
+Meluas (Generalisasi): Makna kata sekarang lebih luas daripada makna aslinya. Contoh: kata bapak dahulu hanya untuk orang tua kandung pria, sekarang untuk semua pria yang lebih tua/dihormati.
+
+Menyempit (Spesialisasi): Makna kata sekarang lebih terbatas daripada makna aslinya. Contoh: kata sarjana dahulu bermakna orang pandai/cendekiawan, sekarang merujuk pada lulusan jenjang S1.
+
+Ameliorasi: Perubahan makna ke arah yang lebih halus, positif, atau sopan. Contoh: kata tuna netra menggantikan buta.
+
+Peyorasi: Perubahan makna ke arah yang lebih kasar, negatif, atau kurang sopan. Contoh: kata bunting terasa lebih kasar dibandingkan hamil.
+
+Sinestesia: Perubahan makna akibat pertukaran tanggapan dua indra yang berbeda. Contoh: Kata-katanya sangat pedas (indra pengecap dipakai untuk indra pendengaran).
+
+Asosiasi: Perubahan makna akibat persamaan sifat objek. Contoh: Beri dia amplop agar urusan cepat selesai (amplop dikaitkan dengan uang suap).
+
+BAGIAN II: ANALISIS WACANA (KAJIAN TEKS DAN KONTEKS)
+1. Hakikat Wacana
+Wacana adalah satuan bahasa terlengkap, tertinggi, dan terbesar di atas tataran kalimat atau klausa, yang memiliki kohesi dan koherensi utuh serta disampaikan secara lisan maupun tulis dalam konteks komunikasi tertentu.
+
+2. Unsur Keutuhan Wacana
+Keutuhan sebuah wacana ditopang oleh dua pilar utama:
+
+A. Kohesi (Keterpaduan Bentuk)
+Kohesi adalah keserasian hubungan antarelemen atau antarunsur lahiriah dalam teks secara gramatikal maupun leksikal.
+
+Kohesi Gramatikal:
+
+Referensi (Pengacuan): Penggunaan kata ganti orang, petunjuk, atau perbandingan (contoh: dia, mereka, ini, itu).
+
+Substitusi (Penggantian): Penggantian unsur teks dengan kata lain.
+
+Elipsis (Pelesapan): Penghilangan kata atau bagian kalimat yang sudah dipahami dari konteks sebelumnya.
+
+Konjungsi (Kata Hubung): Penghubung antarkalimat atau paragraf (contoh: selain itu, oleh karena itu, sebaliknya).
+
+Kohesi Leksikal:
+
+Pengulangan (Reiterasi): Pengulangan kata kunci, sinonim, atau hiponim.
+
+Kolokasi: Kata-kata yang secara lazim berada dalam lingkungan yang sama (contoh: sawah, padi, pupuk, petani).
+
+B. Koherensi (Keterpaduan Makna)
+Koherensi adalah keterpaduan makna atau ikatan logis antarkalimat/paragraf sehingga wacana memiliki alur gagasan yang runtut, masuk akal, dan mudah dipahami.
+
+3. Konteks dalam Wacana
+Wacana tidak dapat dilepaskan dari konteks keberadaannya:
+
+Konteks Linguistik (Teks): Hubungan antarunsur bahasa di dalam wacana itu sendiri.
+
+Konteks Situasi: Lingkungan fisik tempat tuturan terjadi, termasuk siapa penutur, siapa lawan tutur, topik yang dibahas, dan tempat/waktu terjadinya komunikasi.
+
+Konteks Sosio-Struktural/Budaya: Latar belakang nilai budaya, norma sosial, dan hierarki hubungan antarpenutur yang memengaruhi makna tuturan.
+
+4. Jenis-Jenis Wacana Berdasarkan Tujuan/Fungsi
+Wacana Narasi: Wacana yang menceritakan rangkaian peristiwa secara kronologis sesuai urutan waktu.
+
+Wacana Deskripsi: Wacana yang menggambarkan suatu objek, tempat, atau keadaan secara rinci sehingga pembaca seolah-olah melihat atau merasakannya sendiri.
+
+Wacana Eksposisi: Wacana yang memaparkan, menjelaskan, atau memberikan informasi dan pengetahuan secara objektif.
+
+Wacana Argumentasi: Wacana yang bertujuan menyajikan alasan, bukti, dan pemikiran logis untuk meyakinkan pembaca atas suatu pendapat.
+
+Wacana Persuasi: Wacana yang bertujuan membujuk, memengaruhi, atau mengajak pembaca untuk melakukan sesuatu.

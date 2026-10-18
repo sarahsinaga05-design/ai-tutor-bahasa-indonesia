@@ -1,0 +1,86 @@
+Morfologi(KatadanPembentukanKata)
+
+1. Hakikat Morfologi
+Morfologi adalah cabang ilmu linguistik yang mempelajari struktur internal kata, pembentukan kata, serta perubahan bentuk kata beserta pengaruhnya terhadap arti atau kelas kata.
+
+Morfem: Satuan bahasa terkecil yang sudah memiliki makna dan tidak dapat dibagi lagi menjadi satuan yang lebih kecil tanpa mengubah atau menghilangkan maknanya.
+
+Kata: Satuan bahasa bebas terkecil yang dapat berdiri sendiri dalam kalimat dan terdiri dari satu morfem atau gabungan morfem.
+
+2. Jenis-Jenis Morfem
+Berdasarkan Kebebasannya:
+
+Morfem Bebas: Morfem yang dapat berdiri sendiri sebagai kata tanpa perlu bergabung dengan morfem lain (contoh: makan, rumah, padi, lari).
+
+Morfem Terikat: Morfem yang tidak dapat berdiri sendiri dan harus melekat pada morfem lain untuk membentuk kata (contoh: awalan ber-, me-, akhiran -kan, serta bentuk terikat seperti pasc-, multi-).
+
+Berdasarkan Keutuhannya:
+
+Morfem Utuh: Morfem yang bagian-bagiannya menyatu secara langsung (contoh: tulis).
+
+Morfem Terbelah: Morfem yang bagian-bagiannya terpisah karena disisipi morfem lain atau berupa konfiks yang mengapit kata dasar (contoh: ke-…-an pada kata keagamaan).
+
+3. Proses Morfologis (Pembentukan Kata)
+Proses morfologis adalah proses pembentukan kata-kata baru dari bentuk dasar melalui cara-cara berikut:
+
+A. Afiksasi (Pengimbuhan)
+Proses melekatkan afiks (imbuhan) pada bentuk dasar. Berdasarkan posisinya, afiks dibedakan menjadi:
+
+Prefiks (Awalan): Imbuhan yang diletakkan di awal kata dasar (contoh: me-, ber-, di-, ter-, pe-, se-). Contoh kata: membuat, bertani.
+
+Sufiks (Akhiran): Imbuhan yang diletakkan di akhir kata dasar (contoh: -an, -kan, -i). Contoh kata: makanan, tanamkan.
+
+Infiks (Sisipan): Imbuhan yang disisipkan di dalam kata dasar (contoh: -el-, -em-, -er-). Contoh kata: gigi menjadi geligi, tunjuk menjadi telunjuk.
+
+Konfiks (Imbuhan Berapitan): Awalan dan akhiran yang melekat secara bersama-sama dan serentak pada kata dasar (contoh: pe-…-an, ke-…-an). Contoh kata: pemukiman, kehidupan.
+
+B. Reduplikasi (Pengulangan)
+Proses pengulangan bentuk dasar, baik secara keseluruhan maupun sebagian.
+
+Pengulangan Utuh/Penuh: Mengulang seluruh bentuk dasar (contoh: buku-buku, anak-anak).
+
+Pengulangan Sebagian: Mengulang sebagian unsur bentuk dasar (contoh: leluhur, dedaunan).
+
+Pengulangan Berimbuhan: Mengulang bentuk dasar disertai pembentukan imbuhan (contoh: berjalan-jalan, tumbuh-tumbuhan).
+
+Pengulangan Variasi Bunyi (Berubah Bunyi): Mengulang bentuk dasar disertai perubahan vokal atau konsonan (contoh: sayur-mayur, bolak-balik).
+
+C. Komposisi (Penggabungan/Kata Majemuk)
+Proses penggabungan dua kata dasar atau lebih yang melahirkan satu kesatuan makna baru.
+
+Contoh: rumah sakit (bukan rumah yang sakit, melainkan tempat berobat), kereta api, duta besar, matahari.
+
+D. Abreviasi (Pemendekan)
+Proses pemendekan bentuk kompleks menjadi bentuk yang lebih singkat.
+
+Singkatan: Pemendekan berupa huruf-huruf (contoh: SD, DPR, km).
+
+Akronim: Pemendekan yang menggabungkan huruf atau suku kata sehingga dapat dilafalkan sebagai kata biasa (contoh: pemilu, puskesmas, posyandu).
+
+4. Perubahan Makna akibat Proses Morfologis
+Proses morfologis dapat mengubah fungsi dan makna kata:
+
+Morfofonemik (Perubahan Bunyi Imbuhan): Perubahan bunyi yang terjadi ketika afiks bergabung dengan kata dasar.
+
+Awalan me- menjadi mem- jika bertemu kata berawalan p, b, f (contoh: me- + baca = membaca).
+
+Awalan me- meluluhkan konsonan awal p, t, s, k pada kata dasar tertentu (contoh: me- + tulis = menulis).
+
+Gramatikal vs Leksikal:
+
+Makna Leksikal: Makna asli kata sesuai kamus (contoh: jalan = tempat untuk melintas).
+
+Makna Gramatikal: Makna baru yang muncul setelah pembentukan kata (contoh: berjalan = melakukan kegiatan jalan; perjalanan = hal/proses berjalan).
+
+5. Kelas Kata (Kategori Kata) dalam Bahasa Indonesia
+Kata-kata hasil proses morfologis dikategorikan ke dalam beberapa kelas kata utama:
+
+Verba (Kata Kerja): Menyatakan perbuatan, proses, atau keadaan (contoh: tanam, menyiram, diolah).
+
+Nomina (Kata Benda): Menunjukkan nama orang, tempat, atau benda (contoh: petani, padi, benih).
+
+Adjektiva (Kata Sifat): Mengungkapkan kualitas atau kondisi khusus dari nomina (contoh: subur, tangguh, hijau).
+
+Adverbia (Kata Keterangan): Memberikan keterangan pada verba, adjektiva, atau kalimat secara keseluruhan (contoh: sangat, selalu, kemarin).
+
+Kata Tugas: Kata yang berfungsi menghubungkan atau memperjelas hubungan antar-unsur kalimat (contoh: kata depan di, ke, dari; kata hubung dan, tetapi, sebab).
